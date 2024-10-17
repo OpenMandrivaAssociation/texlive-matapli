@@ -3,7 +3,7 @@ Version:	62632
 Release:	2
 Summary:	Class for the french journal "MATAPLI"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/matapli
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/matapli
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/matapli.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/matapli.doc.r%{version}.tar.xz
